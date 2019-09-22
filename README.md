@@ -33,7 +33,7 @@ trie. Also creates a visual of the trie and saves it to `trie.png`.
 ```
 
 Reads words from plaintext file `trie.txt` and inserts all words found into
-trie. Attempt to remove word `recess` from trie. Finally saves all words in trie
+trie. Attempt to add word 'love' to the trie and remove word 'recess' from trie. Finally saves all words in trie
 back to `trie.txt` and print all words to terminal.
 ```bash
     $ ./trie.py -a love -r hatred -l
